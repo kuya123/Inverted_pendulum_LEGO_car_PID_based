@@ -7,7 +7,7 @@ here are some basic system introduction on HW and SW configuration:
 
 ## Hardware discription
 
-###Angle sensor: analog potential meter
+### Angle sensor: analog potential meter
 
 1. potential meter present a linear relationship between angle and resistance
 2. need several calibration to fix out the mapping ratio between delta angel and delta R
@@ -36,7 +36,7 @@ Blue tooth UART module : HC05
 config the part to 115200 bps. 
 
 
-## Software Archetecture 
+### Software Archetecture 
 
 1. C/C++ for mcu 
 2. Python for PC end morintor
