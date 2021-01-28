@@ -6,6 +6,7 @@ I am working on it and let's keep updating.
 here are some basic system introduction on HW and SW configuration:
 
 ## Hardware discription
+see the little car in car_picture folder.
 
 ### Angle sensor: analog potential meter
 
@@ -42,7 +43,7 @@ config the part to 115200 bps.
 2. Python for PC end morintor
 3. on-air configuration and status monitor are done through BT wireless uart channel.  Python takes care of serial port on PC end. configure the device through GUI. and display status on graphic windows.
 
-
+** see some pc end gui picture in capture folder.
 
 enjoy building , enjoy coding and enjoy life
 
